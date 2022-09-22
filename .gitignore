@@ -1,0 +1,4 @@
+test_dataset/
+train_dataset/
+__pycache__
+.ipynb_checkpoints
